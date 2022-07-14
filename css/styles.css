@@ -1,0 +1,31 @@
+body{
+  background-color: #B7D3DF;
+  width: 46%;
+  margin: auto;
+  font-size: 30px;
+  color: #73777B;
+}
+h1{
+  color: #898AA6
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 6%;
+  margin: auto;
+  color: #7D9D9C
+}
+img{
+  border-radius: 150px
+}
+
+a{
+  text-decoration: none;
+  color: #6A67CE;
+
+}
+a:active{
+  color: blue;
+  text-decoration: underline;
+  font-size: 40px;
+}
